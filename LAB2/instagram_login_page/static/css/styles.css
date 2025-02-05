@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Устанавливаем box-sizing, чтобы padding и border входили в размер элемента */
+}
+
+
+body {
+  font-family: Arial, sans-serif;;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.left-section {
+  margin-bottom: 80px;
+  flex: 1;
+}
+
+.right-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex: 1;
+  margin-bottom: 100px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+
+.form-container{
+  width: 350px;
+  height: 420px;
+  padding: 20px;
+  border-radius: 3px;
+  text-align: center;
+  border: 1px solid #dddfe2;
+}
+
+.Instagram-word{
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+
+input {
+  width: 80%;
+  padding: 10px;
+  border: 1px solid #dddfe2;
+  border-radius: 5px;
+  font-size: 12px;
+}
+
+.login-button {
+  width: 80%;
+  padding: 7px;
+  border-radius: 10px;
+  border: none;
+  background-color: #0866ff;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 12px;
+  margin-bottom: 15px;
+}
+
+.line{
+  border-bottom: 1px solid #dadde1;
+  margin-top:15px;
+  margin-bottom: 30px;
+}
+
+.alternate-way-login-container{
+  display: flex;
+  flex-direction: column;
+}
+
+
+.signup-container{
+  margin-top: 10px;
+  width: 350px;
+  height: 40px;
+  padding: 30px;
+  border-radius: 3px;
+  text-align: center;
+  border: 1px solid #dddfe2;
+}
+
+a{
+  text-decoration: none;
+  color: #3cb3ee;
+}
+
+.app-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-size: 16px;
+}
+
+.get-app-word{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.app-icons-container{
+  width: 105%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+

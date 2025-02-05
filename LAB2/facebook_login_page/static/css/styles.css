@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;  /* Устанавливаем box-sizing, чтобы padding и border входили в размер элемента */
+}
+
+body {
+  font-family:  Arial, sans-serif;;
+  background: #f2f4f7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  width: 85%; /*делает контейнер относительно экрана*/
+  max-width: 1200px; /*чтобы контейнер не сильно растянулся в больших экранах*/
+  justify-content: space-between;
+}
+
+.left-section {
+  display: flex;
+  flex-direction: column; /*делает элементы друг под другом*/
+  justify-content: center;
+  align-items: flex-start;
+  text-align: left;
+  font-size: 25px;
+  flex:1;
+  margin-bottom: 200px;
+}
+
+.facebook-logo {
+  height: 120px;
+  margin-bottom: 10px;
+  margin-left:-30px;
+}
+
+.right-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /*вертикаль*/
+  align-items: center; /*горизонталь*/
+  text-align: center;
+  flex:1;
+  margin-bottom: 80px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.login-container {
+  background: white;
+  width: 400px;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /*{горизонтальное смещение тени(если 5 то вправо если -5 то влево)}     {вертикальное(4px вниз -4px вверх}     {размытие тени} rgba{четвертое число прозрачность показывает}*/
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  padding: 15px;
+  border: 1px solid #dddfe2;
+  border-radius: 12px;
+  font-size: 12px;
+}
+
+.login-button {
+  padding: 15px;
+  border-radius: 10px;
+  border: none;
+  background-color: #0866ff;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  transition: 0.3s; /*анимация когда наводишь*/
+}
+
+button:hover{
+  background-color: #1877f2;
+}
+
+.line{
+  border-bottom: 1px solid #dadde1;
+  margin: 10px 0;
+}
+
+.account-button{
+  display: inline-block;
+  padding:15px;
+  border: none;
+  border-radius: 7px;
+  background-color: #42b72a;
+  color: white;
+  text-align: center;
+  font-size: 18px;
+}
+
+.account-button:hover{
+  background-color: #36a420;
+}
+
+a{
+  text-decoration: none;
+}
+
+.link:hover{
+  text-decoration: underline;
+}
+
+.create-page-celebrity-container{
+  margin-top: 15px;
+  align-items: center;
+  justify-content: center;
+}
+
+.create-page-link{
+  font-weight: bold;
+  color: black;
+}
+
+
+
+
