@@ -1,0 +1,17 @@
+<div class="product">
+    <div class="product-info">
+        <img [src]="product.image" alt="{{ product.name }}">
+        <h2>{{ product.name }}</h2>
+        <p class="product-info description">{{ product.description }}</p>
+        <p>{{ product.rating }} ⭐</p>
+    </div>
+    <div class="product-links">
+        <a [href]="getWhatsappLink(product.link)" target="_blank" class="whatsapp-button">
+            Share on WhatsApp
+        </a>
+
+        <a [href]="getTelegramLink(product.link)" target="_blank" class="telegram-button">
+            Share on Telegram
+        </a>
+    </div>
+</div>

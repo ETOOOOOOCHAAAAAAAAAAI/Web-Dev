@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Google Pixel 7 Pro 12GB/256GB Белый",
+      "image": "assets/images/google-pixel-7-pro-white.jpg",
+      "description": "Флагманский смартфон с процессором Google Tensor G2, OLED-экраном 6.7 дюйма и тройной камерой.",
+      "rating": 4.8,
+      "link": "https://kaspi.kz/shop/p/google-pixel-7-pro-12-gb-256-gb-belyi-107066176/?c=750000000"
+    },
+    {
+      "id": 2,
+      "name": "Xiaomi Redmi 13C 8GB/256GB Черный",
+      "image": "assets/images/xiaomi-redmi-13c-black.jpg",
+      "description": "Бюджетный смартфон с 6.74-дюймовым дисплеем, MediaTek Helio G85 и камерой 50 МП.",
+      "rating": 4.5,
+      "link": "https://kaspi.kz/shop/p/xiaomi-redmi-13c-8-gb-256-gb-chernyi-114695323/?c=750000000"
+    },
+    {
+      "id": 3,
+      "name": "Apple iPhone 13 128GB Черный",
+      "image": "assets/images/iphone-13-black.jpg",
+      "description": "Производительный смартфон с чипом A15 Bionic, OLED-экраном 6.1 дюйма и двойной камерой 12 МП.",
+      "rating": 4.9,
+      "link": "https://kaspi.kz/shop/p/apple-iphone-13-128gb-chernyi-102298404/?c=750000000"
+    },
+    {
+      "id": 4,
+      "name": "Apple iPhone 16 Pro Max 256GB Черный",
+      "image": "assets/images/iphone-16-pro-max-black.jpg",
+      "description": "Новый флагман с самым мощным чипом Apple A18 Pro, OLED-дисплеем и камерой 48 МП.",
+      "rating": 5.0,
+      "link": "https://kaspi.kz/shop/p/apple-iphone-16-pro-max-256gb-chernyi-123787551/?c=750000000"
+    },
+    {
+      "id": 5,
+      "name": "Apple iPhone 16 Pro Max 256GB Золотистый",
+      "image": "assets/images/iphone-16-pro-max-gold.jpg",
+      "description": "Флагманский iPhone 16 Pro Max с премиальным дизайном и продвинутыми камерами.",
+      "rating": 5.0,
+      "link": "https://kaspi.kz/shop/p/apple-iphone-16-pro-max-256gb-zolotistyi-123890547/?c=750000000"
+    },
+    {
+      "id": 6,
+      "name": "Realme Note 50 3GB/64GB Черный",
+      "image": "assets/images/realme-note-50-black.jpg",
+      "description": "Доступный смартфон с 6.5-дюймовым дисплеем, Unisoc T612 и двойной камерой.",
+      "rating": 4.3,
+      "link": "https://kaspi.kz/shop/p/realme-note-50-3-gb-64-gb-chernyi-116346407/?c=750000000"
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy A25 5G 6GB/128GB Темно-синий",
+      "image": "assets/images/samsung-galaxy-a25-blue.jpg",
+      "description": "Среднебюджетный смартфон с 6.5-дюймовым Super AMOLED, Exynos 1280 и камерой 50 МП.",
+      "rating": 4.6,
+      "link": "https://kaspi.kz/shop/p/samsung-galaxy-a25-5g-6-gb-128-gb-temno-sinii-115937459/?c=750000000"
+    },
+    {
+      "id": 8,
+      "name": "Samsung Galaxy A06 6GB/128GB Черный",
+      "image": "assets/images/samsung-galaxy-a06-black.jpg",
+      "description": "Бюджетный смартфон с PLS LCD 6.5 дюйма, 6 ГБ оперативной памяти и батареей 5000 мАч.",
+      "rating": 4.4,
+      "link": "https://kaspi.kz/shop/p/samsung-galaxy-a06-6-gb-128-gb-chernyi-123429834/?c=750000000"
+    },
+    {
+      "id": 9,
+      "name": "Apple iPhone 13 128GB Зеленый",
+      "image": "assets/images/iphone-13-green.jpg",
+      "description": "Классический iPhone 13 с OLED-дисплеем 6.1 дюйма и фирменной двойной камерой.",
+      "rating": 4.9,
+      "link": "https://kaspi.kz/shop/p/apple-iphone-13-128gb-zelenyi-104078887/?c=750000000"
+    },
+    {
+      "id": 10,
+      "name": "Oppo A78 8GB/256GB Черный",
+      "image": "assets/images/oppo-a78-black.jpg",
+      "description": "Смартфон с 6.56-дюймовым дисплеем, процессором Dimensity 700 и батареей 5000 мАч.",
+      "rating": 4.5,
+      "link": "https://kaspi.kz/shop/p/oppo-a78-8-gb-256-gb-chernyi-112808573/?c=750000000"
+    }
+  ]
+}

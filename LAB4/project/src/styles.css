@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Be Vietnam Pro', sans-serif;
+  background-color: var(--background-color);
+}
+
+:root {
+  --primary-color: #4A90E2;
+  --secondary-color: #1E2A38;
+  --accent-color: gold;
+  --background-color: #F9FAFC;
+  --card-background: #FFFFFF;
+  --shadow-color: rgba(0, 0, 0, 0.1);
+  --border-color: #EAEAEA;
+  --text-color: #333333;
+  --link-color: #0088CC;
+  --whatsapp-color: #25D366;
+}
+
