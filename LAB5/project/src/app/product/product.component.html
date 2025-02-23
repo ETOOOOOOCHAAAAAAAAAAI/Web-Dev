@@ -1,0 +1,20 @@
+<div class="product">
+  <button class="delete-button" (click)="removeProduct()">❌</button>
+  <div class="product-info">
+    <img [src]="product.image" alt="{{ product.name }}">
+    <h2>{{ product.name }}</h2>
+    <p class="product-info description">{{ product.description }}</p>
+    <p>{{ product.rating }} ⭐</p>
+    <p>Likes: {{ product.likes }}</p>
+    <button class="like-button" (click)="likeProduct()">❤️ Like</button>
+  </div>
+  <div class="product-links">
+    <a [href]="getWhatsappLink(product.link)" target="_blank" class="whatsapp-button">
+      Share on WhatsApp
+    </a>
+
+    <a [href]="getTelegramLink(product.link)" target="_blank" class="telegram-button">
+      Share on Telegram
+    </a>
+  </div>
+</div>

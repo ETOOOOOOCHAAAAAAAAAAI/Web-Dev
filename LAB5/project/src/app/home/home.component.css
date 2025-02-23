@@ -1,0 +1,31 @@
+
+.category-container{
+  margin: 200px;
+  display: flex;
+  column-gap: 14px;
+  grid-template-columns: minmax(400px, 400px);
+  justify-content: space-around;
+  align-items: center;
+}
+
+img{
+  width: 100px;
+}
+
+.category{
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  border:1px solid var(--border-color);
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 5px 15px var(--shadow-color);
+}
+
+a{
+  color: var(--text-color);
+  text-decoration: none;
+}
+

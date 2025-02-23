@@ -1,0 +1,252 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "name": "Google Pixel 7 Pro 12GB/256GB Белый",
+      "image": "assets/images/category-phones/product-images/google-pixel-7-pro-white.jpg",
+      "description": "Флагманский смартфон с процессором Google Tensor G2, OLED-экраном 6.7 дюйма и тройной камерой.",
+      "rating": 4.8,
+      "link": "https://kaspi.kz/shop/p/google-pixel-7-pro-12-gb-256-gb-belyi-107066176/?c=750000000"
+    },
+    {
+      "id": 2,
+      "name": "Xiaomi Redmi 13C 8GB/256GB Черный",
+      "image": "assets/images/category-phones/product-images/xiaomi-redmi-13c-black.jpg",
+      "description": "Бюджетный смартфон с 6.74-дюймовым дисплеем, MediaTek Helio G85 и камерой 50 МП.",
+      "rating": 4.5,
+      "link": "https://kaspi.kz/shop/p/xiaomi-redmi-13c-8-gb-256-gb-chernyi-114695323/?c=750000000"
+    },
+    {
+      "id": 3,
+      "name": "Apple iPhone 13 128GB Черный",
+      "image": "assets/images/category-phones/product-images/iphone-13-black.jpg",
+      "description": "Производительный смартфон с чипом A15 Bionic, OLED-экраном 6.1 дюйма и двойной камерой 12 МП.",
+      "rating": 4.9,
+      "link": "https://kaspi.kz/shop/p/apple-iphone-13-128gb-chernyi-102298404/?c=750000000"
+    },
+    {
+      "id": 4,
+      "name": "Apple iPhone 16 Pro Max 256GB Черный",
+      "image": "assets/images/category-phones/product-images/iphone-16-pro-max-black.jpg",
+      "description": "Новый флагман с самым мощным чипом Apple A18 Pro, OLED-дисплеем и камерой 48 МП.",
+      "rating": 5.0,
+      "link": "https://kaspi.kz/shop/p/apple-iphone-16-pro-max-256gb-chernyi-123787551/?c=750000000"
+    },
+    {
+      "id": 5,
+      "name": "Apple iPhone 16 Pro Max 256GB Золотистый",
+      "image": "assets/images/category-phones/product-images/iphone-16-pro-max-gold.jpg",
+      "description": "Флагманский iPhone 16 Pro Max с премиальным дизайном и продвинутыми камерами.",
+      "rating": 5.0,
+      "link": "https://kaspi.kz/shop/p/apple-iphone-16-pro-max-256gb-zolotistyi-123890547/?c=750000000"
+    },
+    {
+      "id": 6,
+      "name": "Realme Note 50 3GB/64GB Черный",
+      "image": "assets/images/category-phones/product-images/realme-note-50-black.jpg",
+      "description": "Доступный смартфон с 6.5-дюймовым дисплеем, Unisoc T612 и двойной камерой.",
+      "rating": 4.3,
+      "link": "https://kaspi.kz/shop/p/realme-note-50-3-gb-64-gb-chernyi-116346407/?c=750000000"
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy A25 5G 6GB/128GB Темно-синий",
+      "image": "assets/images/category-phones/product-images/samsung-galaxy-a25-blue.jpg",
+      "description": "Среднебюджетный смартфон с 6.5-дюймовым Super AMOLED, Exynos 1280 и камерой 50 МП.",
+      "rating": 4.6,
+      "link": "https://kaspi.kz/shop/p/samsung-galaxy-a25-5g-6-gb-128-gb-temno-sinii-115937459/?c=750000000"
+    },
+    {
+      "id": 8,
+      "name": "Samsung Galaxy A06 6GB/128GB Черный",
+      "image": "assets/images/category-phones/product-images/samsung-galaxy-a06-black.jpg",
+      "description": "Бюджетный смартфон с PLS LCD 6.5 дюйма, 6 ГБ оперативной памяти и батареей 5000 мАч.",
+      "rating": 4.4,
+      "link": "https://kaspi.kz/shop/p/samsung-galaxy-a06-6-gb-128-gb-chernyi-123429834/?c=750000000"
+    },
+    {
+      "id": 9,
+      "name": "Apple iPhone 13 128GB Зеленый",
+      "image": "assets/images/category-phones/product-images/iphone-13-green.jpg",
+      "description": "Классический iPhone 13 с OLED-дисплеем 6.1 дюйма и фирменной двойной камерой.",
+      "rating": 4.9,
+      "link": "https://kaspi.kz/shop/p/apple-iphone-13-128gb-zelenyi-104078887/?c=750000000"
+    },
+    {
+      "id": 10,
+      "name": "Oppo A78 8GB/256GB Черный",
+      "image": "assets/images/category-phones/product-images/oppo-a78-black.jpg",
+      "description": "Смартфон с 6.56-дюймовым дисплеем, процессором Dimensity 700 и батареей 5000 мАч.",
+      "rating": 4.5,
+      "link": "https://kaspi.kz/shop/p/oppo-a78-8-gb-256-gb-chernyi-112808573/?c=750000000"
+    }
+  ],
+  "laptops": [
+    {
+      "id": 1,
+      "name": "Thunderobot 911 X Wild Hunter G2 Pro 15.6\" 16GB/512GB",
+      "image": "assets/images/category-laptops/product-images/thunderobot-911-x-wild-hunter-g2-pro.jpg",
+      "description": "Игровой ноутбук с мощным процессором, дискретной графикой и качественным дисплеем 15.6 дюйма.",
+      "rating": 4.7,
+      "link": "https://kaspi.kz/shop/p/thunderobot-911-x-wild-hunter-g2-pro-15-6-16-gb-ssd-512-gb-win-11-pro--120386920/?c=750000000"
+    },
+    {
+      "id": 2,
+      "name": "Apple MacBook Air 13 2022 M2 8GB/256GB",
+      "image": "assets/images/category-laptops/product-images/macbook-air-13-2022.jpg",
+      "description": "Лёгкий ультрабук с мощным чипом Apple M2, 13.6-дюймовым Retina-дисплеем и длительным временем автономной работы.",
+      "rating": 4.9,
+      "link": "https://kaspi.kz/shop/p/apple-macbook-air-13-2022-13-6-8-gb-ssd-256-gb-macos-mlxw3-105933794/?c=750000000"
+    },
+    {
+      "id": 3,
+      "name": "Lenovo IdeaPad 3 15.6\" 4GB/256GB",
+      "image": "assets/images/category-laptops/product-images/lenovo-ideapad-3-15.jpg",
+      "description": "Бюджетный ноутбук с 15.6-дюймовым дисплеем, 4 ГБ ОЗУ и SSD на 256 ГБ. Отличный выбор для офисной работы и учёбы.",
+      "rating": 4.4,
+      "link": "https://kaspi.kz/shop/p/lenovo-ideapad-3-15-6-4-gb-ssd-256-gb-bez-os-15igl05-81wq00emrk-102878742/?c=750000000"
+    },
+    {
+      "id": 4,
+      "name": "Thunderobot 911 X Wild Hunter G2L 15.6\" 16GB/512GB",
+      "image": "assets/images/category-laptops/product-images/thunderobot-911-x-wild-hunter-g2l.jpg",
+      "description": "Игровой ноутбук с отличной производительностью, 16 ГБ ОЗУ и SSD на 512 ГБ, подходящий для современных игр.",
+      "rating": 4.8,
+      "link": "https://kaspi.kz/shop/p/thunderobot-911-x-wild-hunter-g2l-15-6-16-gb-ssd-512-gb-win-11-pro-jt009500e-116983567/?c=750000000"
+    },
+    {
+      "id": 5,
+      "name": "Acer Gadget E10 ETBook 14\" 16GB/512GB",
+      "image": "assets/images/category-laptops/product-images/acer-gadget-e10-etbook-14.jpg",
+      "description": "Компактный ноутбук с 14-дюймовым дисплеем, 16 ГБ ОЗУ и SSD на 512 ГБ. Отличный вариант для работы и путешествий.",
+      "rating": 4.6,
+      "link": "https://kaspi.kz/shop/p/acer-gadget-e10-etbook-14-16-gb-ssd-512-gb-win-11-home-0167563995-121895857/?c=750000000"
+    }
+  ],
+  "earphones": [
+    {
+      "id": 1,
+      "name": "Apple AirPods 3 with Lightning Charging Case",
+      "image": "assets/images/category-earphones/product-images/apple-airpods-3.jpg",
+      "description": "Беспроводные наушники с улучшенным звуком, пространственным аудио и чехлом с разъемом Lightning.",
+      "rating": 4.8,
+      "link": "https://kaspi.kz/shop/p/apple-airpods-3-with-lightning-charging-case-belyi-106667987/?c=750000000"
+    },
+    {
+      "id": 2,
+      "name": "Hydra Minor Бежевый",
+      "image": "assets/images/category-earphones/product-images/hydra-minor.jpg",
+      "description": "Стильные и удобные наушники с хорошим качеством звука и современным дизайном.",
+      "rating": 4.5,
+      "link": "https://kaspi.kz/shop/p/hydra-minor-bezhevyi-120724130/?c=750000000"
+    },
+    {
+      "id": 3,
+      "name": "Apple AirPods Pro 2 with Type-C Wireless Charging",
+      "image": "assets/images/category-earphones/product-images/apple-airpods-pro-2.jpg",
+      "description": "Продвинутые беспроводные наушники с активным шумоподавлением и зарядкой через USB-C.",
+      "rating": 4.9,
+      "link": "https://kaspi.kz/shop/p/apple-airpods-pro-2-with-type-c-wireless-charging-belyi-113677582/?c=750000000"
+    },
+    {
+      "id": 4,
+      "name": "OEM P9 Серебристый",
+      "image": "assets/images/category-earphones/product-images/oem-p9-silver.jpg",
+      "description": "Стильные беспроводные наушники с качественным звуком и эргономичным дизайном.",
+      "rating": 4.2,
+      "link": "https://kaspi.kz/shop/p/oem-p9-serebristyi-116112464/?c=750000000"
+    },
+    {
+      "id": 5,
+      "name": "Apple AirPods 4 Active Noise Cancellation",
+      "image": "assets/images/category-earphones/product-images/apple-airpods-4-anc.jpg",
+      "description": "Новое поколение AirPods с активным шумоподавлением, прозрачным режимом и улучшенным звуком.",
+      "rating": 5.0,
+      "link": "https://kaspi.kz/shop/p/apple-airpods-4-active-noise-cancellation-belyi-124333921/?c=750000000"
+    }
+  ],
+  "playstations": [
+    {
+      "id": 1,
+      "name": "Sony PlayStation 5 + 6 игр + зарядная станция",
+      "image": "assets/images/category-playstation/product-images/ps5-bundle-6-games.jpg",
+      "description": "Игровая консоль нового поколения с мощным железом, комплектом из 6 игр и зарядной станцией.",
+      "rating": 4.9,
+      "link": "https://kaspi.kz/shop/p/sony-playstation-5-geimpad-zarjadnaja-stantsija-gripsy-fifa23-ps4-ufc4-mortal-kombat-11-ultimate-gta5-call-of-duty-cold-war-need-for-speed-heat-116749438/?c=750000000"
+    },
+    {
+      "id": 2,
+      "name": "Sony PlayStation 5 Slim",
+      "image": "assets/images/category-playstation/product-images/ps5-slim.jpg",
+      "description": "Компактная версия PlayStation 5 с теми же характеристиками, но в уменьшенном корпусе.",
+      "rating": 4.8,
+      "link": "https://kaspi.kz/shop/p/sony-playstation-5-slim-114696098/?c=750000000"
+    },
+    {
+      "id": 3,
+      "name": "Sony PlayStation 4 Slim 1TB + 4 игры",
+      "image": "assets/images/category-playstation/product-images/ps4-slim-1tb-bundle.jpg",
+      "description": "Отличный вариант для геймеров, включающий PS4 Slim с 1 ТБ памяти и 4 популярными играми.",
+      "rating": 4.7,
+      "link": "https://kaspi.kz/shop/p/sony-playstation-4-slim-1-tb-geimpad-mk-11-ult-gta5-fifa23-ufc4-106753489/?c=750000000"
+    },
+    {
+      "id": 4,
+      "name": "Sony PlayStation 5 Digital Version + 4 игры",
+      "image": "assets/images/category-playstation/product-images/ps5-digital-bundle.jpg",
+      "description": "Цифровая версия PS5 без дисковода, с мощными характеристиками и 4 играми в комплекте.",
+      "rating": 4.9,
+      "link": "https://kaspi.kz/shop/p/sony-playstation-5-digital-version-geimpad-zarjadnaja-stantsija-fifa-24-mk11-gta5-ufc4-122642019/?c=750000000"
+    },
+    {
+      "id": 5,
+      "name": "PlayStation 5 + FC25 + MK11 + GTA5 + UFC4",
+      "image": "assets/images/category-playstation/product-images/ps5-fc25-mk11-gta5-ufc4.jpg",
+      "description": "Полный комплект PS5 с четырьмя хитами: FC25, Mortal Kombat 11, GTA5 и UFC4.",
+      "rating": 4.9,
+      "link": "https://kaspi.kz/shop/p/playstation-5-fc25-mk11-gta5-ufc4-130618817/?c=750000000"
+    }
+  ],
+  "tv": [
+    {
+      "id": 1,
+      "name": "Haier 43 Smart TV S2 109 см Черный",
+      "image": "assets/images/category-tv/product-images/haier-43-smart-tv-s2.jpg",
+      "description": "Умный телевизор с диагональю 43 дюйма, Full HD-разрешением и встроенными приложениями для стриминга.",
+      "rating": 4.7,
+      "link": "https://kaspi.kz/shop/p/haier-43-smart-tv-s2-109-sm-chernyi-119871907/?c=750000000"
+    },
+    {
+      "id": 2,
+      "name": "Muxxed 43 Smart TV 109 см Черный",
+      "image": "assets/images/category-tv/product-images/muxxed-43-smart-tv.jpg",
+      "description": "Бюджетный Smart TV с диагональю 43 дюйма, поддержкой популярных приложений и четким изображением.",
+      "rating": 4.5,
+      "link": "https://kaspi.kz/shop/p/muxxed-43-smart-tv-109-sm-chernyi-113639335/?c=750000000"
+    },
+    {
+      "id": 3,
+      "name": "Tricolor TV H32H5000SA 81 см Черный",
+      "image": "assets/images/category-tv/product-images/tricolor-h32h5000sa.jpg",
+      "description": "Компактный 32-дюймовый телевизор с качественным изображением и встроенным цифровым тюнером.",
+      "rating": 4.4,
+      "link": "https://kaspi.kz/shop/p/trikolor-tv-h32h5000sa-81-sm-chernyi-109948139/?c=750000000"
+    },
+    {
+      "id": 4,
+      "name": "Haier 55 Smart TV S4 140 см Серый",
+      "image": "assets/images/category-tv/product-images/haier-55-smart-tv-s4.jpg",
+      "description": "Большой 55-дюймовый телевизор с 4K-разрешением и современными функциями Smart TV.",
+      "rating": 4.8,
+      "link": "https://kaspi.kz/shop/p/haier-55-smart-tv-s4-140-sm-seryi-129567499/?c=750000000"
+    },
+    {
+      "id": 5,
+      "name": "Muxxed 32 Smart TV 81 см Черный",
+      "image": "assets/images/category-tv/product-images/muxxed-32-smart-tv.jpg",
+      "description": "Бюджетный Smart TV с диагональю 32 дюйма, хорошим качеством изображения и удобным интерфейсом.",
+      "rating": 4.3,
+      "link": "https://kaspi.kz/shop/p/muxxed-32-smart-tv-81-sm-chernyi-113638959/?c=750000000"
+    }
+  ]
+}
