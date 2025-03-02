@@ -1,0 +1,11 @@
+<div class="album-container">
+  <button class="delete-button" (click)="deleteAlbum()">❌</button>
+  <a [routerLink]="['/albums', album.id]">
+    <div class="album-image">
+      <img [src]="photo?.url" [alt]="photo?.title" width="400px">
+    </div>
+    <div class="album-meta-info">
+      <h2>{{ album.title }}</h2>
+    </div>
+  </a>
+</div>

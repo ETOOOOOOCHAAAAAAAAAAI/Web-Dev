@@ -1,0 +1,6 @@
+<div class="albums-container">
+  <app-album-item-component *ngFor="let album of albumsMetaInfo"
+                            [album]="album"
+                            (removeAlbumItem)="removeAlbum($event)" ></app-album-item-component>
+
+</div>

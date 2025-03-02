@@ -1,0 +1,12 @@
+<div class="album-details-wrapper">
+  <div class="album-details-container">
+    <button routerLink="/albums" class="return-button">Return</button>
+    <h2>Album</h2>
+    <input *ngIf="album" [(ngModel)]="album.title" class="album-title-input">
+
+    <button (click)="saveTitle()" class="save-button">Save</button>
+
+
+    <button [routerLink]="['/albums', album?.id, 'photos']" class="photos-button">Photos</button>
+  </div>
+</div>

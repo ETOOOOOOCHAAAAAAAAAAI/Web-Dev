@@ -1,0 +1,18 @@
+<div class="album-photos-wrapper">
+  <div class="album-photos-container">
+    <button [routerLink]="['/albums', albumId]" class="return-button">Return</button>
+    <h2>Album Photos</h2>
+
+    <div *ngIf="albumPhotos.length > 0; else noPhotos" class="photos-grid">
+      <div *ngFor="let photo of albumPhotos" class="photo-card">
+        <img [src]="photo.url" [alt]="photo.title">
+        <p>{{ photo.title }}</p>
+      </div>
+    </div>
+
+    <ng-template #noPhotos>
+      <p class="no-photos-text">No photos available for this album.</p>
+    </ng-template>
+  </div>
+</div>
+

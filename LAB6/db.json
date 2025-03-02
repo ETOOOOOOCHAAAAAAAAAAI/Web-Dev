@@ -1,0 +1,178 @@
+{
+  "albums": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Summer Vibes"
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Family Memories"
+    },
+    {
+      "userId": 2,
+      "id": 3,
+      "title": "City Lights"
+    },
+    {
+      "userId": 2,
+      "id": 4,
+      "title": "Nature Wonders"
+    },
+    {
+      "userId": 3,
+      "id": 5,
+      "title": "Adventures in the Wild"
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "Beach Sunset",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "Sunflower Field",
+      "url": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "albumId": 1,
+      "id": 3,
+      "title": "Tropical Beach",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "albumId": 1,
+      "id": 4,
+      "title": "Summer Picnic",
+      "url": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "albumId": 1,
+      "id": 5,
+      "title": "Ice Cream Cone",
+      "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "albumId": 2,
+      "id": 6,
+      "title": "Family Gathering",
+      "url": "https://images.unsplash.com/photo-1511988617509-a57c8a288659",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1511988617509-a57c8a288659?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "albumId": 2,
+      "id": 7,
+      "title": "Family Vacation",
+      "url": "https://images.unsplash.com/photo-1511988617509-a57c8a288659",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1511988617509-a57c8a288659?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "albumId": 2,
+      "id": 8,
+      "title": "Family Dinner",
+      "url": "https://images.unsplash.com/photo-1511988617509-a57c8a288659",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1511988617509-a57c8a288659?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "albumId": 2,
+      "id": 9,
+      "title": "Family Portrait",
+      "url": "https://images.unsplash.com/photo-1511988617509-a57c8a288659",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1511988617509-a57c8a288659?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "albumId": 2,
+      "id": 10,
+      "title": "Family Outing",
+      "url": "https://images.unsplash.com/photo-1511988617509-a57c8a288659",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1511988617509-a57c8a288659?ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=80"
+    },
+    {
+      "albumId": 3,
+      "id": 10,
+      "title": "Blurred City Lights",
+      "url": "https://img.freepik.com/free-photo/blurred-city-lights_23-2148139585.jpg?semt=ais_hybrid",
+      "thumbnailUrl": "https://img.freepik.com/free-photo/blurred-city-lights_23-2148139585.jpg?semt=ais_hybrid&w=150"
+    },
+    {
+      "albumId": 3,
+      "id": 11,
+      "title": "Motion Speed in Night City",
+      "url": "https://img.freepik.com/free-photo/motion-speed-effect-with-city-night_1112-2014.jpg?semt=ais_hybrid",
+      "thumbnailUrl": "https://img.freepik.com/free-photo/motion-speed-effect-with-city-night_1112-2014.jpg?semt=ais_hybrid&w=150"
+    },
+    {
+      "albumId": 3,
+      "id": 12,
+      "title": "Illuminated City at Night",
+      "url": "https://img.freepik.com/free-photo/illuminated-city-night_1127-2144.jpg?semt=ais_hybrid",
+      "thumbnailUrl": "https://img.freepik.com/free-photo/illuminated-city-night_1127-2144.jpg?semt=ais_hybrid&w=150"
+    },
+    {
+      "albumId": 3,
+      "id": 13,
+      "title": "City Skyline Lights by the River",
+      "url": "https://img.freepik.com/free-photo/city-skyline-light-line-river_1137-310.jpg?semt=ais_hybrid",
+      "thumbnailUrl": "https://img.freepik.com/free-photo/city-skyline-light-line-river_1137-310.jpg?semt=ais_hybrid&w=150"
+    },
+    {
+      "albumId": 4,
+      "id": 14,
+      "title": "Magical Floating Island",
+      "url": "https://img.freepik.com/free-photo/magical-floating-island-fantasy-landscape_23-2151851429.jpg?semt=ais_hybrid",
+      "thumbnailUrl": "https://img.freepik.com/free-photo/magical-floating-island-fantasy-landscape_23-2151851429.jpg?semt=ais_hybrid&w=150"
+    },
+    {
+      "albumId": 4,
+      "id": 15,
+      "title": "Cliffs Near the Water",
+      "url": "https://img.freepik.com/free-photo/beautiful-shot-green-cliffs-near-body-water_181624-3428.jpg?semt=ais_hybrid",
+      "thumbnailUrl": "https://img.freepik.com/free-photo/beautiful-shot-green-cliffs-near-body-water_181624-3428.jpg?semt=ais_hybrid&w=150"
+    },
+    {
+      "albumId": 4,
+      "id": 16,
+      "title": "Mountains and Lake",
+      "url": "https://img.freepik.com/free-photo/mountains-lake_1398-1153.jpg?semt=ais_hybrid",
+      "thumbnailUrl": "https://img.freepik.com/free-photo/mountains-lake_1398-1153.jpg?semt=ais_hybrid&w=150"
+    },
+    {
+      "albumId": 4,
+      "id": 17,
+      "title": "Nature Landscape Collage",
+      "url": "https://img.freepik.com/free-photo/collage-landscapes-composition_23-2150241034.jpg?semt=ais_hybrid",
+      "thumbnailUrl": "https://img.freepik.com/free-photo/collage-landscapes-composition_23-2150241034.jpg?semt=ais_hybrid&w=150"
+    },
+    {
+      "albumId": 5,
+      "id": 18,
+      "title": "Hiking in the Autumn Forest",
+      "url": "https://img.freepik.com/free-photo/small-group-people-are-enjoying-their-hike-autumn-forestal-park-one-them-ia-making-photo-via-drone_613910-19039.jpg?semt=ais_hybrid",
+      "thumbnailUrl": "https://img.freepik.com/free-photo/small-group-people-are-enjoying-their-hike-autumn-forestal-park-one-them-ia-making-photo-via-drone_613910-19039.jpg?semt=ais_hybrid&w=150"
+    },
+    {
+      "albumId": 5,
+      "id": 19,
+      "title": "Father and Child on a Road Trip",
+      "url": "https://img.freepik.com/free-photo/father-child-outdoors-together-road-trip_23-2148801711.jpg?semt=ais_hybrid",
+      "thumbnailUrl": "https://img.freepik.com/free-photo/father-child-outdoors-together-road-trip_23-2148801711.jpg?semt=ais_hybrid&w=150"
+    },
+    {
+      "albumId": 5,
+      "id": 20,
+      "title": "Tourist Exploring the Jungle",
+      "url": "https://img.freepik.com/free-vector/tourist-with-map-backpack-stand-jungle_107791-16866.jpg?semt=ais_hybrid",
+      "thumbnailUrl": "https://img.freepik.com/free-vector/tourist-with-map-backpack-stand-jungle_107791-16866.jpg?semt=ais_hybrid&w=150"
+    }
+  ]
+}

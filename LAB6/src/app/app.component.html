@@ -1,0 +1,15 @@
+<main>
+  <header>
+    <nav class="navbar">
+      <ul class="nav-links">
+        <li><a routerLink="/home" routerLinkActive="active">Home</a></li>
+        <!--        router link active показывает страницу на которой мы щясь находимся по другому чуть-->
+        <li><a routerLink="/about" routerLinkActive="active">About</a></li>
+        <li><a routerLink="/albums" routerLinkActive="active">Albums</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section class="content">
+    <router-outlet></router-outlet>
+  </section>
+</main>

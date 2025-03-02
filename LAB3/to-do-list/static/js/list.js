@@ -1,7 +1,11 @@
+
+const title = document.getElementById('title');
+title.innerText = "DOLIST";
 function addItem() {
     const newItemInput = document.getElementById("newItemInput");
     const todoList = document.getElementById("todoList");
     const newItem = document.createElement("li");
+
     newItem.innerHTML = `
         <input type="checkbox" onchange="markAsDone(this)">
         <span>${newItemInput.value}</span>
