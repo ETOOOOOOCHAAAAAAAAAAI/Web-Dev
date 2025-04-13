@@ -29,13 +29,14 @@ export class AlbumDetailsComponent implements OnInit {
   }
 
   loadAlbum(albumId: number) {
-    this.albumService.getAlbumById(albumId).subscribe(album =>
-      this.album = album
-    );
+    this.albumService.getAlbumById(albumId).subscribe(album => this.album = album);
   }
 
 
   saveTitle() {
+    // if (this.album) {
+    //   this.albumService.updateAlbum(this.album).subscribe(updateAlbum => this.album = updateAlbum);
+    // }
 
   }
 }

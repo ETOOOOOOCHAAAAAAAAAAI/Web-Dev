@@ -26,11 +26,8 @@ export class AlbumPhotosComponent implements OnInit {
     this.loadAlbumPhotos(this.albumId);
   }
 
-
-  loadAlbumPhotos(albumId: number) {
-    this.albumService.getAlbumPhotos(albumId).subscribe(album =>{
-      this.albumPhotos = album;
-      console.log(this.albumPhotos);
-    });
-  }
+  loadAlbumPhoto(albumId: number) Observable<albumMetaInfo[]> {
+    return this.AlbumService.getphotos(albumId).subscribe(albumphotos =>
+})
+}
 }
